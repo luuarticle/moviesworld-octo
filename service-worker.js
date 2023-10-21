@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moviesworld-octo/precache-manifest.39b78b54f8a8f243ac2ef9a1ddd3505f.js"
+  "/moviesworld-octo/precache-manifest.6f29366cf51fb61d50b054922d308bf9.js"
 );
 
 self.addEventListener('message', (event) => {
