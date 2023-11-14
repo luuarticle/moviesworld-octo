@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4a824b112e3354413dae175343f6a84",
+    "revision": "ee7d86cfe57986972485623c7b56ac7c",
     "url": "/moviesworld-octo/index.html"
   },
   {
-    "revision": "59fd95ac9ec06e8cb9f7",
-    "url": "/moviesworld-octo/static/css/main.f29f85de.chunk.css"
+    "revision": "8cbc5f8684d725be30ec",
+    "url": "/moviesworld-octo/static/css/main.295d39c0.chunk.css"
   },
   {
     "revision": "b7111be3b999cac86724",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviesworld-octo/static/js/2.83de99ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59fd95ac9ec06e8cb9f7",
-    "url": "/moviesworld-octo/static/js/main.6a979c0b.chunk.js"
+    "revision": "8cbc5f8684d725be30ec",
+    "url": "/moviesworld-octo/static/js/main.849a736b.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/moviesworld-octo/static/js/main.6a979c0b.chunk.js.LICENSE.txt"
+    "url": "/moviesworld-octo/static/js/main.849a736b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c50af24ced6765e91ea1",
